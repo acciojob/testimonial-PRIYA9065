@@ -18,16 +18,15 @@ main{
 	gap: 10px;
 }
 
-.c1{
+#a1, #a2{
 	border: 1px solid black;
 	background-color: white;
 	color: black;
 	padding: 10px;
 	margin: 10px;
-	display: flex;
-	justify-content: space-between;
 }
 
 .author{
 	font-style: italic;
+	text-align: right;
 }
